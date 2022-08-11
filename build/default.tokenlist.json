@@ -1,0 +1,73 @@
+{
+  "name": "SardisSwap List",
+  "timestamp": "2022-08-11T14:12:48.742Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/sardischain/sardisswap-token-list/master/images/logo.png",
+  "keywords": [
+    "sardisswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x72724446dFf2ff16eB9815022BACdABFe3fcB2e5",
+      "chainId": 11612,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sardischain/sardisswap-token-list/master/images/assets/0x72724446dFf2ff16eB9815022BACdABFe3fcB2e5.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x8E5B6E9415b02E0AF3e190082866cf84AC06fE14",
+      "chainId": 11612,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sardischain/sardisswap-token-list/master/images/assets/0x32e5f21E5ba9A5e0222442B497Ac237f08Cce5c2.png"
+    },
+    {
+      "name": "WTSRDX Token",
+      "symbol": "WTSRDX",
+      "address": "0x72134d124d944c29398d78a18eD8B504E7Cd9241",
+      "chainId": 11612,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sardischain/sardisswap-token-list/master/images/assets/0xcBfb02e7B6E8F38ecA516023Da0637397885B0a5.png"
+    },
+    {
+      "name": "BNB Token",
+      "symbol": "BNBX",
+      "address": "0xe0E1A26864C10095494490275d64c086112dc1af",
+      "chainId": 51712,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sardischain/sardisswap-token-list/master/images/assets/0xe0E1A26864C10095494490275d64c086112dc1af.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETHX",
+      "address": "0x92fd74b7Fc6DD85061E54b87Ebc46Cbe1721A962",
+      "chainId": 51712,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sardischain/sardisswap-token-list/master/images/assets/0x92fd74b7Fc6DD85061E54b87Ebc46Cbe1721A962.png"
+    },
+    {
+      "name": "USDX",
+      "symbol": "USDX",
+      "address": "0x32e5f21E5ba9A5e0222442B497Ac237f08Cce5c2",
+      "chainId": 51712,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sardischain/sardisswap-token-list/master/images/assets/0x32e5f21E5ba9A5e0222442B497Ac237f08Cce5c2.png"
+    },
+    {
+      "name": "WSRDX Token",
+      "symbol": "WSRDX",
+      "address": "0xcBfb02e7B6E8F38ecA516023Da0637397885B0a5",
+      "chainId": 51712,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sardischain/sardisswap-token-list/master/images/assets/0xcBfb02e7B6E8F38ecA516023Da0637397885B0a5.png"
+    }
+  ]
+}
